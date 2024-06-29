@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+padding:0 ;
+margin: 0;
+box-sizing: border-box;
+font-family: gilroy;
+}
+html,body{
+width: 100%;
+height: 100%;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.heroimage{
+    object-position: 50% 40%;
+}
