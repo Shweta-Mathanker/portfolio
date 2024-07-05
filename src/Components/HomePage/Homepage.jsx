@@ -6,7 +6,7 @@ import Centerflex from './Flexdiv/Centerflex'
 
 const Homepage = () => {
   return (
-    <div className=' h-full relative overflow-x-hidden'>
+    <div className=' h-full relative overflow-x-hidden '>
         <Navbar/>
         <HeroImage/>
         <Centerflex/>
