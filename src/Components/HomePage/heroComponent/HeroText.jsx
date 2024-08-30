@@ -24,7 +24,7 @@ const HeroText = () => {
  
   return (
     
-    <motion.div className='relative mt-8 flex '
+    <motion.div className='relative mt-8 flex'
     initial={{
       x:-3300
     }}
